@@ -8,7 +8,7 @@
 
 [English](README.md) | [简体中文](README_zh-CN.md)
 
-<a href="https://zing.loopit.me/"><img src="assets/zing-logo-symbol.svg" alt="" height="16"> Project Page</a> · <a href="https://github.com/seedleap/zing-world-model"><img src="https://github.githubassets.com/favicons/favicon.svg" alt="" height="16"> GitHub</a> · <a href="https://github.com/seedleap/Zing-SGLang"><img src="https://github.githubassets.com/favicons/favicon.svg" alt="" height="16"> SGLang Inference</a> · <a href="https://huggingface.co/seedleap/zing-0.5"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="" height="16"> Hugging Face</a> · <a href="https://modelscope.cn/models/seedleap/Zing-0.5"><img src="https://g.alicdn.com/sail-web/maas/2.13.133/favicon/128.ico" alt="" height="16"> ModelScope</a> · <a href="#"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-text-16.svg" alt="" height="16"> Technical Report (Coming soon)</a>
+<a href="https://zing.loopit.me/"><img src="assets/zing-logo-symbol.svg" alt="" height="16"> Project Page</a> · <a href="https://github.com/seedleap/zing-world-model"><img src="https://github.githubassets.com/favicons/favicon.svg" alt="" height="16"> GitHub</a> · <a href="https://github.com/seedleap/Zing-SGLang"><img src="https://github.githubassets.com/favicons/favicon.svg" alt="" height="16"> SGLang Inference</a> · <a href="https://huggingface.co/seedleap/zing-0.5"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="" height="16"> Hugging Face</a> · <a href="https://modelscope.cn/models/seedleap/Zing-0.5"><img src="https://g.alicdn.com/sail-web/maas/2.13.133/favicon/128.ico" alt="" height="16"> ModelScope</a> · <a href="docs/Zing-0.5.pdf"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-text-16.svg" alt="" height="16"> Paper (PDF)</a>
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB.svg)
@@ -35,6 +35,14 @@ Zing-0.5/
 ```
 
 `generator/model.pt` must directly contain the generator state dict. Parameter names and shapes are matched strictly; wrapped checkpoints, renamed parameter prefixes, adapters, and partial state dicts are not accepted.
+
+## Paper
+
+**[Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control](docs/Zing-0.5.pdf)**
+
+Zing Team · September 15, 2026 · 19 pages
+
+The report describes joint keyboard and online text control, segment-level teacher supervision for block-level generation, and low-cost real-time inference, with quantitative results and a discussion of persistent world state.
 
 ## News
 

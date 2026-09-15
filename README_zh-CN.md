@@ -8,7 +8,7 @@
 
 [English](README.md) | [简体中文](README_zh-CN.md)
 
-<a href="https://zing.loopit.me/"><img src="assets/zing-logo-symbol.svg" alt="" height="16"> 项目主页</a> · <a href="https://github.com/seedleap/zing-world-model"><img src="https://github.githubassets.com/favicons/favicon.svg" alt="" height="16"> GitHub</a> · <a href="https://github.com/seedleap/Zing-SGLang"><img src="https://github.githubassets.com/favicons/favicon.svg" alt="" height="16"> SGLang 推理</a> · <a href="https://huggingface.co/seedleap/zing-0.5"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="" height="16"> Hugging Face</a> · <a href="https://modelscope.cn/models/seedleap/Zing-0.5"><img src="https://g.alicdn.com/sail-web/maas/2.13.133/favicon/128.ico" alt="" height="16"> ModelScope</a> · <a href="#"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-text-16.svg" alt="" height="16"> 技术报告（即将发布）</a>
+<a href="https://zing.loopit.me/"><img src="assets/zing-logo-symbol.svg" alt="" height="16"> 项目主页</a> · <a href="https://github.com/seedleap/zing-world-model"><img src="https://github.githubassets.com/favicons/favicon.svg" alt="" height="16"> GitHub</a> · <a href="https://github.com/seedleap/Zing-SGLang"><img src="https://github.githubassets.com/favicons/favicon.svg" alt="" height="16"> SGLang 推理</a> · <a href="https://huggingface.co/seedleap/zing-0.5"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="" height="16"> Hugging Face</a> · <a href="https://modelscope.cn/models/seedleap/Zing-0.5"><img src="https://g.alicdn.com/sail-web/maas/2.13.133/favicon/128.ico" alt="" height="16"> ModelScope</a> · <a href="docs/Zing-0.5.pdf"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-text-16.svg" alt="" height="16"> 论文（PDF）</a>
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB.svg)
@@ -35,6 +35,14 @@ Zing-0.5/
 ```
 
 `generator/model.pt` 中应直接存放生成器的参数字典（state dict），文件中的参数名和形状必须与模型完全一致。如果文件还包含训练状态等外层字段、参数名前缀已被修改、带有额外的 Adapter 参数，或缺少模型参数，加载都会失败。
+
+## 论文
+
+**[Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control](docs/Zing-0.5.pdf)**
+
+Zing Team · 2026 年 9 月 15 日 · 19 页
+
+论文介绍了键盘与在线文本联合控制、片段级教师对分块生成的监督，以及低成本实时推理，并报告定量评测结果、讨论世界状态持久性问题。
 
 ## 新闻
 
