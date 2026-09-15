@@ -46,6 +46,7 @@ The report describes joint keyboard and online text control, segment-level teach
 
 ## News
 
+- [Sep 16, 2026]: Our [Zing-0.5 technical report](docs/Zing-0.5.pdf) is now available, presenting real-time joint action and text control for playable worlds.
 - [Aug 26, 2026]: Zing-0.5 ranks No. 2 overall on the [WBench leaderboard](https://meituan-longcat.github.io/WBench/#leaderboard) and No. 1 among real-time world models. 🏆
 - [Aug 26, 2026]: Zing-0.5 is released. 🎉
 
