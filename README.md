@@ -2,7 +2,7 @@
 
 <img src="assets/zing-logo.svg" alt="Zing" height="110">&emsp;&emsp;<img src="assets/loopit-wordmark.svg" alt="Loopit" height="110">
 
-# Zing-0.5: An Efficient Real-Time Interactive World Model
+# Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control
 
 <a href="https://cdn.jsdelivr.net/gh/seedleap/zing-world-model@main/assets/case0.mp4"><img src="assets/case0.jpg" alt="Play Zing interactive world model case 0" title="Click to play" width="30%"></a>&emsp;<a href="https://cdn.jsdelivr.net/gh/seedleap/zing-world-model@main/assets/case1.mp4"><img src="assets/case1.jpg" alt="Play Zing interactive world model case 1" title="Click to play" width="30%"></a>&emsp;<a href="https://cdn.jsdelivr.net/gh/seedleap/zing-world-model@main/assets/case2.mp4"><img src="assets/case2.jpg" alt="Play Zing interactive world model case 2" title="Click to play" width="30%"></a>
 
