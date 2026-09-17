@@ -47,7 +47,7 @@ Zing Team · 2026 年 9 月 15 日 · 19 页
 
 ## 新闻
 
-- [2026 年 9 月 16 日]：[Zing-0.5 技术报告](docs/Zing-0.5.pdf)已发布，介绍面向可玩世界的实时动作与文本联合控制。
+- [2026 年 9 月 16 日]：Zing-0.5 技术报告已发布于 [arXiv](https://arxiv.org/abs/2609.17909)（[PDF](docs/Zing-0.5.pdf)），介绍面向可玩世界的实时动作与文本联合控制。
 - [2026 年 9 月 14 日]：[Zing-SGLang](https://github.com/seedleap/Zing-SGLang) 已发布，提供基于 SGLang 的 Zing-0.5 推理与实时 WebSocket 服务。
 - [2026 年 8 月 26 日]：Zing-0.5 位列 [WBench 总榜](https://meituan-longcat.github.io/WBench/#leaderboard)第二，并在实时世界模型中排名第一。🏆
 - [2026 年 8 月 26 日]：Zing-0.5 正式发布。🎉
