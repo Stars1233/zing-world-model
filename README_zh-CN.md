@@ -10,6 +10,7 @@
 
 <a href="https://zing.loopit.me/"><img src="assets/zing-logo-symbol.svg" alt="" height="16"> 项目主页</a> · <a href="https://github.com/seedleap/zing-world-model"><img src="https://github.githubassets.com/favicons/favicon.svg" alt="" height="16"> GitHub</a> · <a href="https://github.com/seedleap/Zing-SGLang"><img src="https://github.githubassets.com/favicons/favicon.svg" alt="" height="16"> SGLang 推理</a> · <a href="https://huggingface.co/seedleap/zing-0.5"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="" height="16"> Hugging Face</a> · <a href="https://modelscope.cn/models/seedleap/Zing-0.5"><img src="https://g.alicdn.com/sail-web/maas/2.13.133/favicon/128.ico" alt="" height="16"> ModelScope</a> · <a href="docs/Zing-0.5.pdf"><img src="https://raw.githubusercontent.com/primer/octicons/main/icons/file-text-16.svg" alt="" height="16"> 论文（PDF）</a>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.17909-b31b1b.svg)](https://arxiv.org/abs/2609.17909)
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.9-EE4C2C.svg)
@@ -38,7 +39,7 @@ Zing-0.5/
 
 ## 论文
 
-**[Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control](docs/Zing-0.5.pdf)**
+**[Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control](https://arxiv.org/abs/2609.17909)**
 
 Zing Team · 2026 年 9 月 15 日 · 19 页
 
